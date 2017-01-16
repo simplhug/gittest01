@@ -4,7 +4,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
         System.out.println("Hello, World! This is from GitHub Web-hook!!");
-        System.out.println("Hello, World! This is from GitHub Web-hook6666!!");
+        System.out.println("Hello, World! This is from GitHub Web-hook777!!");
     }
 
 }
